@@ -1,0 +1,12 @@
+# Bloquea rastreo de carpetas internas que no deben aparecer en Google
+User-agent: *
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /admin/
+Disallow: /private/
+
+# Permite rastreo de todo lo demás
+Allow: /
+
+# Sitemap para que Google encuentre todas tus páginas
+Sitemap: https://www.hormigonpavarotti.es/sitemap.xml
