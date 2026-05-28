@@ -9,4 +9,4 @@ Disallow: /private/
 Allow: /
 
 # Sitemap para que Google encuentre todas tus páginas
-Sitemap: https://www.hormigonpavarotti.es/sitemap.xml
+Sitemap: https://www.hormigonpavarotti.com/sitemap.xml
